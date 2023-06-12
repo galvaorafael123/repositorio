@@ -4,7 +4,8 @@
     font-size: 30px;
 }
 .gridimagens{
-    width: 250px;
+    width: 260px;
+    height: 250px;
 }
 .todasimagens{
     display: grid;
